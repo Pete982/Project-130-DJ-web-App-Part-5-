@@ -1,0 +1,54 @@
+
+
+#MERRYCHRISTMAS{
+
+    font-style: italic, bold;
+
+    font-family: fantasy;
+
+    color: red;
+
+}
+
+#SANTAS_COMING{
+
+    box-shadow: 10, 10, 10, gray;
+
+     padding: 50px;
+     
+     margin: 30px;
+
+     font-size: 20px;
+
+   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+   font-style: oblique;
+
+}
+
+#SaintNickWoo{
+
+    box-shadow: 10, 20, 30, gray;
+    
+    font-size: 33px;
+    
+    padding: 20px;
+    
+    margin: 30px;
+}
+
+canvas{
+
+    border-radius: 23px;
+
+    border: 5px solid white;
+
+    margin-bottom: 150px;
+    
+    
+}
+
+body{
+
+    background-size: cover;
+}
